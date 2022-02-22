@@ -23,4 +23,4 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-![screen-gif](./gifs/codepath_Twitter_part1.gif)
+![screen-gif](./gif/codepath_Twitter_part1.gif)
